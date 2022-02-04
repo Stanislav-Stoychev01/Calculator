@@ -1,0 +1,16 @@
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.exe
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.deps.json
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.json
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.runtimeconfig.dev.json
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\bin\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csprojAssemblyReference.cache
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.Form1.resources
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.GenerateResource.cache
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfoInputs.cache
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.AssemblyInfo.cs
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.dll
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.pdb
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.genruntimeconfig.cache
+C:\Users\Stanislav Stoychev\source\repos\Calc\Calc\obj\Debug\netcoreapp3.1\Calc.FormHistory.resources
